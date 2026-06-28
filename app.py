@@ -15,7 +15,7 @@ st.markdown(
         <h1 style="color: #2E4053;">🐾 Clasificador de Imágenes: Perros vs Gatos</h1>
         <p style="font-size: 1.1em; color: #5D6D7E;">
             Modelo predictivo para la clase de IA — Campus Comayagua — 2026<br>
-            <b>Desarrollado por: Richard Andino</b>
+            <b>Desarrollado por: Richard Andino - 20231900184</b>
         </p>
     </div>
     <hr style="margin-top: 0; margin-bottom: 25px;">
